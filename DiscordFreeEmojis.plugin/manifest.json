@@ -1,0 +1,12 @@
+{
+  "name": "FreeEmojis",
+  "description": "stickers gratuitos sin usar nitro.",
+  "authors": [
+    {
+      "name": "OmenOfTheRaven",
+      "id": "1454990232943333530"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "DiscordFreeEmojis.plugin.js"
+}
